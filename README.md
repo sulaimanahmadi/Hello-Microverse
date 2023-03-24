@@ -1,5 +1,4 @@
-# LINTERS-PROJECT
-
+<a name="readme-top"></a>
 
 <!--
 HOW TO USE:
@@ -26,10 +25,12 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
- 
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-
-  <h3><b>LINTERS PROJECT</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
@@ -59,27 +60,31 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [LINTERS PROJECT] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-**[LINTERS PROJECT]** is a...
+
+This is my first Microverse project.
+which is about Hello Microverse.
+**[HelloMicroverse]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
-
+:Html
+:Css
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
+Client
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://html.org/">HTML</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://css.com/">css</a></li>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
 </details>
 
@@ -96,26 +101,38 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[portfolio]**
-- **[css-files]**
-- **[images]**
+- **[Linters]**
+- **[Html]**
+- **[CSS]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> 
+
+My code would be a piece of instruction for new developers.
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-
+To Install all the linters(Lighthouse, Webhint, Stylint), node.js
 <!--
 Example command:
-git in
+npm install -g @lhci/cli@0.7.x
 ```sh
  gem install rails
 ```
@@ -127,23 +144,23 @@ Clone this repository to your desired folder:
 
 <!--
 Example commands:
-
+git clone
 ```sh
   cd my-folder
-  https://github.com/mwakiogeofrey/LINTERS-PROJECT.git
+  git clone git@github.com:myaccount/my-project.git
 ```
 --->
 
 ### Install
 
 Install this project with:
-
+npm
 <!--
 Example command:
-vscode
+npm install --save-dev hint@6.x
 ```sh
   cd my-project
-  
+  gem install
 ```
 --->
 
@@ -155,19 +172,19 @@ To run the project, execute the following command:
 Example command:
 
 ```sh
-  live server
+  rails server
 ```
 --->
 
 ### Run tests
 
 To run tests, run the following command:
-
+NO test
 <!--
 Example command:
 
 ```sh
- npx stylelint "**/*.{css,scss}"
+  bin/rails test test/models/article_test.rb
 ```
 --->
 
@@ -179,7 +196,7 @@ You can deploy this project using:
 Example:
 
 ```sh
-google chrome
+
 ```
  -->
 
@@ -187,16 +204,18 @@ google chrome
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="Sulaiman ahmadi"></a>
 
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/mwakiogeofrey)
+- GitHub: [@sulaimanahmadi](https://github.com/sulaimanahmadi)
+- Twitter: [Sulaiman Ahamdi](https://twitter.com/sahmadi4all)
+- LinkedIn: [Sulaiman Ahmadi](https://www.linkedin.com/in/mohammad-sulaiman-ahmadi-555315261/)
 
-
-
+👤 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
@@ -204,9 +223,9 @@ google chrome
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[images]**
-- [ ] **[css]**
-- [ ] **[html]**
+- [ ] **[Javascript]**
+- [ ] **[React]**
+- [ ] **[Bootstrap]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -224,9 +243,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project... give it a go ahead
+Work my first project as a Micronaut. Feeling amazed with starting Microverse.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,13 +255,32 @@ If you like this project... give it a go ahead
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank microverse
+I would like to thank my friends and family to have me back financialy and mentaly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[How to start the project]**
+
+  - [you should install the node.js and linters package]
+
+- **[How to use the project]**
+
+  - [this project is use in Visual Studio Code]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
+## 📝 License <a name="license"></a>
+
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
