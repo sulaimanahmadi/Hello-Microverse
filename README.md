@@ -19,15 +19,13 @@ REQUIRED SECTIONS:
 - Acknowledgements
 - License
 
-OPTIONAL SECTIONS:
-- FAQ
+
 
 After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Hello Microverse</b></h3>
@@ -68,8 +66,6 @@ which is about Hello Microverse.
 **[HelloMicroverse]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
-:Html
-:Css
 ### Tech Stack <a name="tech-stack"></a>
 
 
@@ -77,14 +73,14 @@ Client
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/">Html</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://expressjs.com/">CSS</a></li>
   </ul>
 </details>
 
@@ -107,15 +103,6 @@ Client
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -200,9 +187,7 @@ Example:
 ```
  -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="Sulaiman ahmadi"></a>
 
@@ -214,12 +199,6 @@ Example:
 - Twitter: [Sulaiman Ahamdi](https://twitter.com/sahmadi4all)
 - LinkedIn: [Sulaiman Ahmadi](https://www.linkedin.com/in/mohammad-sulaiman-ahmadi-555315261/)
 
-👤 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
 
@@ -229,41 +208,12 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-
 Work my first project as a Micronaut. Feeling amazed with starting Microverse.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank my friends and family to have me back financialy and mentaly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[How to start the project]**
 
