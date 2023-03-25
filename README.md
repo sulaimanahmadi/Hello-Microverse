@@ -19,7 +19,8 @@ REQUIRED SECTIONS:
 - Acknowledgements
 - License
 
-
+OPTIONAL SECTIONS:
+- FAQ
 
 After you're finished please remove all the comments and instructions!
 -->
@@ -66,6 +67,8 @@ which is about Hello Microverse.
 **[HelloMicroverse]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
+:Html
+:Css
 ### Tech Stack <a name="tech-stack"></a>
 
 
@@ -73,14 +76,14 @@ Client
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">Html</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">CSS</a></li>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
 </details>
 
@@ -95,14 +98,9 @@ Client
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Linters]**
 - **[Html]**
 - **[CSS]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 
@@ -177,7 +175,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+Not yet Deployed
 
 <!--
 Example:
@@ -187,11 +185,10 @@ Example:
 ```
  -->
 
-
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="Sulaiman ahmadi"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -199,21 +196,42 @@ Example:
 - Twitter: [Sulaiman Ahamdi](https://twitter.com/sahmadi4all)
 - LinkedIn: [Sulaiman Ahmadi](https://www.linkedin.com/in/mohammad-sulaiman-ahmadi-555315261/)
 
+<!-- FUTURE FEATURES -->
 
-> Describe 1 - 3 features you will add to the project.
+## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Javascript]**
 - [ ] **[React]**
 - [ ] **[Bootstrap]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
 
 Work my first project as a Micronaut. Feeling amazed with starting Microverse.
 
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
 I would like to thank my friends and family to have me back financialy and mentaly.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- FAQ (optional) -->
 
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 - **[How to start the project]**
 
@@ -223,7 +241,6 @@ I would like to thank my friends and family to have me back financialy and menta
 
   - [this project is use in Visual Studio Code]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
